@@ -40,7 +40,7 @@ function drawCircle(x,y){
 ```
 
 の部分のstrokeStyleで色を変更してください。  
-ぬりつぶすなら上のコードを
+ぬりつぶすなら上のコードを以下のように書き換えてください。
 
 ```
 function drawCircle(x,y){
@@ -51,4 +51,3 @@ function drawCircle(x,y){
 }
 ```
 
-以下のように書き換えてください。
